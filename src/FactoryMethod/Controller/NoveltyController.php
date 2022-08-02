@@ -49,7 +49,7 @@ class NoveltyController extends AbstractController
         $entityManager->flush();
 
         return $this->json([
-            'message' => 'User announced!'
+            'message' => 'User announced!g'
         ]);
     }
 }
