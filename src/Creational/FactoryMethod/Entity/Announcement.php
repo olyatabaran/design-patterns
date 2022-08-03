@@ -1,6 +1,6 @@
 <?php
 
-namespace App\FactoryMethod\Entity;
+namespace App\Creational\FactoryMethod\Entity;
 
 interface Announcement
 {

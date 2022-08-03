@@ -1,8 +1,8 @@
 <?php
 
-namespace App\FactoryMethod\Repository;
+namespace App\Creational\FactoryMethod\Repository;
 
-use App\FactoryMethod\Entity\Post;
+use App\Creational\FactoryMethod\Entity\Post;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 

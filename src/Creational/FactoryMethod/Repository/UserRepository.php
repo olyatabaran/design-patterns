@@ -1,8 +1,8 @@
 <?php
 
-namespace App\FactoryMethod\Repository;
+namespace App\Creational\FactoryMethod\Repository;
 
-use App\FactoryMethod\Entity\User;
+use App\Creational\FactoryMethod\Entity\User;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
