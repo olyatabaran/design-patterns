@@ -1,8 +1,8 @@
 <?php
 
-namespace App\FactoryMethod\Entity;
+namespace App\Creational\FactoryMethod\Entity;
 
-use App\FactoryMethod\Repository\NoveltyRepository;
+use App\Creational\FactoryMethod\Repository\NoveltyRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;

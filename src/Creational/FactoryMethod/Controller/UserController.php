@@ -1,8 +1,8 @@
 <?php
 
-namespace App\FactoryMethod\Controller;
+namespace App\Creational\FactoryMethod\Controller;
 
-use App\FactoryMethod\Entity\User;
+use App\Creational\FactoryMethod\Entity\User;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
